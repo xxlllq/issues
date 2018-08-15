@@ -1,0 +1,6 @@
+比如
+   $('#some').click();
+当事件触发无效时候，
+   需要设置ajax属性async为false,（async. 默认是true，即为异步方式）
+   
+https://www.cnblogs.com/yiliweichinasoft/p/3667365.html
